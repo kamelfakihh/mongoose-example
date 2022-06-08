@@ -10,7 +10,6 @@
   "license": "MIT",
   "dependencies": {
     "dotenv": "^16.0.1",
-    "mongoose": "^6.3.5",
-    "npm": "^8.12.1"
+    "mongoose": "^6.3.5"
   }
 }
